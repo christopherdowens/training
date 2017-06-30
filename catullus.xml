@@ -61,7 +61,27 @@
             <witness xml:id="G"><abbr type="siglum">G</abbr> = <title>Parisinus lat.
               14137</title></witness>
             <witness xml:id="R"><abbr type="siglum">R</abbr> = <title>Vaticanus Ottobonianus lat.
-                1829</title></witness>
+              1829</title>
+              <msDesc>
+                <msIdentifier>
+                  <settlement>Vatican</settlement>
+                  <repository>Biblioteca Apostolica Vaticana</repository>
+                  <idno>Ottobonianus lat. 1829.</idno>
+                </msIdentifier>
+                <physDesc>
+                  <handDesc>
+                    <handNote xml:id="R2"><abbr type="siglum">R<hi rend="superscript">2</hi></abbr>
+                      corrects the manuscript.</handNote>
+                  </handDesc>
+                </physDesc>
+              </msDesc></witness>
+            <witness xml:id="ε"><abbr type="siglum">ε</abbr> = <title>Consensus of ε1, ε2, and ε3</title>
+              <listWit>
+                <witness xml:id="ε1"><title>Milan, Biblioteca Nazionale di Brera AD xii 37 – Italy, 1450?</title></witness>
+                <witness xml:id="ε2"><title>Brescia, Biblioteca Queriniana A vii 7 – Ferrara?, ca. 1460</title></witness>
+                <witness xml:id="ε3"><title>London, British Library Harley 2574 – Italy, ca. 1460</title></witness>
+              </listWit>
+            </witness>
           </listWit>
         </div>
       </div>
@@ -76,7 +96,8 @@
             <lem wit="#servius #past #V">arida</lem>
             <witDetail wit="#V">?</witDetail>
             <rdg wit="#O #G #R">arido</rdg>
-            </app> modo pumice expolitum?</l>
+            </app> modo <app><lem>pumice</lem>
+            <rdg wit="#R" xml:id="l2rdg2">punice</rdg><witDetail wit="#R" target="#l2rdg2">corr. <ref target="#R2">R<hi rend="superscript">2</hi></ref></witDetail></app> expolitum?</l>
           <l>Corneli, tibi: namque tu solebas</l>
           <l>meas esse aliquid putare nugas</l>
           <l>iam tum, cum ausus es unus Italorum</l>
