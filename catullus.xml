@@ -100,7 +100,7 @@
             <rdg wit="#R" xml:id="l2rdg2">punice</rdg><witDetail wit="#R" target="#l2rdg2">corr. <ref target="#R2">R<hi rend="superscript">2</hi></ref></witDetail></app> expolitum?</l>
           <l n="3">Corneli, tibi: namque tu solebas</l>
           <l n="4">meas esse aliquid putare nugas</l>
-          <l n="5">iam <app><lem>tum</lem></app>, cum ausus es unus Italorum</l>
+          <l n="5">iam <app><lem wit="#ε">tum</lem><rdg wit="#V">tamen</rdg></app>, cum ausus <app><lem wit="#ε">es</lem><rdg wit="#V">est</rdg></app> unus Italorum</l>
           <l n="6">omne aevum tribue explicare cartis</l>
           <l n="7">doctis, Iuppiter, et laboriosis.</l>
           <l n="8">quare habe tibi quidquid hoc libelli.</l>
