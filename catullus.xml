@@ -5,12 +5,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Title of Work</title>
-        <author>Name of Author</author>
-        <editor>Name of Editor</editor>
+        <title>Carmina</title>
+        <author>Catullus</author>
+        <editor>Christopher D. Owens</editor>
       </titleStmt>
       <editionStmt>
-        <edition>First Edition</edition>
+        <edition>First LDLT Edition (sample)</edition>
       </editionStmt>
       <publicationStmt>
         <publisher>Society for Classical Studies</publisher>
@@ -89,7 +89,7 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="part1">
-          <head>Title of First Part</head>
+          <head>Carmen Primum</head>
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
           <l n="1">Cui dono lepidum novum libellum</l>
           <l n="2"><app>
@@ -113,7 +113,7 @@ libelli] al. mei G¹R²  9 &lt;o> add. θ, est (ē) Statius  quidem 1472 (quale
 est, patroni ut ergo Bergk)  10 perire O</ab>
         </div>
         <div type="textpart" n="2" xml:id="part2">
-          <head>Title of Second Part</head>
+          <head>Carmen Secundum</head>
           <!--Each new major section (e.g., book, volume) has a new <div>.-->
         </div>
       </div>
