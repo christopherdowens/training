@@ -101,15 +101,14 @@
           <l n="3">Corneli, tibi: namque tu solebas</l>
           <l n="4">meas esse aliquid putare nugas</l>
           <l n="5">iam <app><lem wit="#ε">tum</lem><rdg wit="#V">tamen</rdg></app>, cum ausus <app><lem wit="#ε">es</lem><rdg wit="#V">est</rdg></app> unus Italorum</l>
-          <l n="6">omne aevum tribue explicare cartis</l>
+          <l n="6">omne <app><lem>aevum</lem><rdg wit="#O #past" xml:id="l6rdg2">evum</rdg><witDetail wit="#O" target="#l6rdg2">(euū)</witDetail>
+            <rdg wit="#G #R" xml:id="l6rdg3">eum</rdg><witDetail wit="#R" target="#l6rdg3">corr. <ref target="#R2">R<hi rend="superscript">2</hi></ref></witDetail></app> tribue explicare cartis</l>
           <l n="7">doctis, Iuppiter, et laboriosis.</l>
           <l n="8">quare habe tibi quidquid hoc libelli.</l>
           <l n="9">qualecumque quod, <supplied reason="lost">o</supplied> patrona virgo,</l>
           <l n="10">plus uno maneat perenne saeclo.</l>
           
-          <ab>1 2 arida Servius, Pastrengicus, V?, arido OGR  punice R corr. R²  5 tum ε: tamen V
-es ε: est V  6 evum (euū) O, Pastrengicus: eum GR, corr R²  8 habe tibi η: tibi habe V
-libelli] al. mei G¹R²  9 &lt;o> add. θ, est (ē) Statius  quidem 1472 (qualecumque quidem
+          <ab>8 habe tibi η: tibi habe V libelli] al. mei G¹R²  9 &lt;o> add. θ, est (ē) Statius  quidem 1472 (qualecumque quidem
 est, patroni ut ergo Bergk)  10 perire O</ab>
         </div>
         <div type="textpart" n="2" xml:id="part2">
